@@ -1,0 +1,19 @@
+Declaration of a and b
+C++: int a, b; a = 5; b = 6;
+Python: a = 5 b = 6
+
+Input value into a, b
+C++: std::cin >> a;
+Python: a = int(input())
+
+Input prompt
+C++: std::cout << "a:"; std::cin >> a;
+Python: a = int(input('a:'))
+
+Printing
+C++: std::cout << a << '*' << b << '=' << a * b;
+Python: print("{} * {} = {}".format(a, b, a * b))
+
+String
+C++: std::string s("Hello")
+Python: s = "Hello"
