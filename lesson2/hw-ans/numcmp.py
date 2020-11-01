@@ -24,5 +24,4 @@ def main():
     result = numCmp(num1, num2)
     prettyPrintResult(result, num1, num2)
 
-
 main()
