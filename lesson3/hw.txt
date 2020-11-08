@@ -1,0 +1,31 @@
+1. Print the character of the longer string at the end of the shorter string
+
+--------------
+Please input string1:Hello World!
+Please input string2:Goodbye my friend!
+f
+--------------
+Please input string1:abcabcabcd
+Please input string2:aa
+b
+--------------
+Please input string1:abc
+Please input string2:def
+c f
+
+2. An extension on the original userstrpart.py
+
+--------------
+Please input an index:6
+Please input a string:Hello World!
+The character at index 6 of "Hello World" is 'W'
+--------------
+Please input an index:6
+Please input a string:abc
+ERROR! The string is not long enough!
+--------------
+Please input an index:-1
+Please input a string:abcd
+ERROR! The index is not valid!
+
+
